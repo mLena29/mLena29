@@ -57,9 +57,7 @@ Estudante de **Sistemas de Informação** na **[UNOCHAPECÓ](https://www.unochap
 
 ## 📚 Projetos Recentes
 
-🔹 [Calculadora em C++](https://github.com/mLena29/calculadora-cpp)  
-🔹 [Sistema de Cadastro em C](https://github.com/mLena29/sistema-cadastro-c)  
-🔹 [Exercícios de Algoritmos](https://github.com/mLena29/exercicios-algoritmos)
+🔹 [Projetos da faculdade 2 semestre](https://github.com/mLena29/Projetos-da-faculdade) 
 
 <div align="center">
   
