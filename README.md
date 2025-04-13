@@ -1,73 +1,68 @@
-# 👩🏻‍💻 Milena Lazzaretti
+# 👩‍💻 Milena Lazzaretti
 
-**`Dev Estudante - Sistemas de Informação`**
+**`Desenvolvedora em Formação | Sistemas de Informação`**
 
-Me chamo Milena, sou estudante de **Sistemas de Informação** na **Unochapecó**. Trabalho como **SDR (Sales Development Representative)** na **Beyond**, uma empresa de tecnologia no ramo **Legal Tech**, responsável pelo produto **Legis**, uma plataforma de automação jurídica.
+<div align="center">
+  
+  ![Banner de Tecnologia](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-Sou apaixonada por tecnologia e estou sempre em busca de novos aprendizados. Atualmente, estou estudando **C** e **C++**, explorando as bases da programação e desenvolvimento de sistemas.
+</div>
 
+## 🚀 Sobre Mim
+
+Estudante de **Sistemas de Informação** na **[UNOCHAPECÓ](https://www.unochapeco.edu.br/)**, atuando como **SDR (Sales Development Representative)** na **[Beyond](https://beyond.com.br/)**, empresa especializada em soluções **Legal Tech** com o produto **Legis**.
+
+- 🌱 Atualmente aprendendo: **C**, **C++** e fundamentos de algoritmos
+- 💡 Interesses: Desenvolvimento de software, automação e inovação tecnológica
+- 🎯 Objetivo: Me tornar uma desenvolvedora full-stack
+
+## 🛠️ Stack Tecnológico
+
+**Estudando atualmente:**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin:0 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin:0 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin:0 10px"/>
+</p>
+
+**Próximos passos:**
+- JavaScript
+- Python
+- Banco de Dados
+
+## 📈 Minhas Estatísticas no GitHub
+
+<div align="center">
+  
+  ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=mLena29&show_icons=true&theme=radical&locale=pt-br)
+  
+  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mLena29&layout=compact&theme=radical&langs_count=6)
+
+</div>
+
+## 🌐 Conecte-se Comigo
 
 <p align="left">
   <a href="https://github.com/mLena29" target="_blank">
-    <img 
-      alt="GitHub" 
-      title="GitHub" 
-      width="40" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-    />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/milenalazzaretti/" target="_blank">
-    <img 
-      alt="LinkedIn" 
-      title="LinkedIn" 
-      width="40" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
+## 📚 Projetos Recentes
 
----
+🔹 [Calculadora em C++](https://github.com/mLena29/calculadora-cpp)  
+🔹 [Sistema de Cadastro em C](https://github.com/mLena29/sistema-cadastro-c)  
+🔹 [Exercícios de Algoritmos](https://github.com/mLena29/exercicios-algoritmos)
 
-### 🧠 Linguagens em estudo
+<div align="center">
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
-<img 
-    align="left" 
-    alt="C" 
-    title="C" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-
-<br/>
-<br/>
-
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mLena29&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="GitHub Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mLena29&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
-  />
-</p>
+</div>
