@@ -12,7 +12,7 @@
 
 Estudante de **Sistemas de Informação** na **[UNOCHAPECÓ](https://www.unochapeco.edu.br/)**, atuando como **SDR (Sales Development Representative)** na **[Beyond](https://beyond.com.br/)**, empresa especializada em soluções **Legal Tech** com o produto **Legis**.
 
-- 🌱 Atualmente aprendendo: **C**, **C++** e fundamentos de algoritmos
+- 🌱 Atualmente aprendendo: **C**, **C++**, **Java**, **POO** e fundamentos de algoritmos
 - 💡 Interesses: Desenvolvimento de software, automação e inovação tecnológica
 - 🎯 Objetivo: Me tornar uma desenvolvedora full-stack
 
